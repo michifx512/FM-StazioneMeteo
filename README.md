@@ -30,6 +30,8 @@ Windspeed DIY Sensor (Anemometer)
 - https://www.youtube.com/watch?v=_pW03IMpZCo
 
 ## Components table
+|Type|Name|
+|----|----|
 |ESP 32||
 |CO2 Sensor|Figaro CDM4161A|
 |Temp & Humidity||
