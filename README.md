@@ -26,11 +26,11 @@
 
 ### useful links: 
 Windspeed DIY Sensor (Anemometer)
-- https://www.youtube.com/watch?v=tBGwyXPJZEQ
-- https://www.youtube.com/watch?v=_pW03IMpZCo
+- ["DIY 3D Printed IoT Weather Station Using an ESP32" YouTube](https://www.youtube.com/watch?v=tBGwyXPJZEQ)
+- ["Homemade Arduino Wind-speed Sensor" YouTube](https://www.youtube.com/watch?v=_pW03IMpZCo)
 
 ULP Coprocessor Programming
-- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/ulp.html
+- ["ULP Coprocessor Programming" Expressif.com](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/ulp.html)
 
 
 ## Components table
